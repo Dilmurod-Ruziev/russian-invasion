@@ -1,0 +1,896 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5908003380,,,4
+H5,2019,2019,2019,0,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2719428708,,,4
+H5,2019,2019,2019,0,0,1,Import,8,Albania,ALB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105735138,,,0
+H5,2019,2019,2019,0,0,2,Export,8,Albania,ALB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,678491,,,0
+H5,2019,2019,2019,0,0,1,Import,8,Albania,ALB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27472757,,,0
+H5,2019,2019,2019,0,0,2,Export,8,Albania,ALB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1561577,,,0
+H5,2019,2019,2019,0,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14160145460,,,4
+H5,2019,2019,2019,0,0,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,34819240571,,,4
+H5,2019,2019,2019,0,0,1,Import,24,Angola,AGO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79032703,,,4
+H5,2019,2019,2019,0,0,2,Export,24,Angola,AGO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179010,,,0
+H5,2019,2019,2019,0,0,1,Import,24,Angola,AGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38589792,,,4
+H5,2019,2019,2019,0,0,2,Export,24,Angola,AGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78848,,,0
+H5,2019,2019,2019,0,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13649506476,,,4
+H5,2019,2019,2019,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19635202600,,,4
+H5,2019,2019,2019,0,0,1,Import,31,Azerbaijan,AZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2287176551,,,4
+H5,2019,2019,2019,0,0,2,Export,31,Azerbaijan,AZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,724336770,,,0
+H5,2019,2019,2019,0,0,1,Import,31,Azerbaijan,AZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,467055510,,,0
+H5,2019,2019,2019,0,0,2,Export,31,Azerbaijan,AZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340552637,,,0
+H5,2019,2019,2019,0,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49125029975,,,4
+H5,2019,2019,2019,0,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65114127659,,,4
+H5,2019,2019,2019,0,0,1,Import,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240660224,,,4
+H5,2019,2019,2019,0,0,2,Export,32,Argentina,ARG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,650339837,,,0
+H5,2019,2019,2019,0,0,1,Import,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18985511,,,4
+H5,2019,2019,2019,0,0,2,Export,32,Argentina,ARG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35857849,,,0
+H5,2019,2019,2019,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,221481291585,,,4
+H5,2019,2019,2019,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,266377225615,,,4
+H5,2019,2019,2019,0,0,1,Import,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317165449,,,4
+H5,2019,2019,2019,0,0,2,Export,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,509630515,,,4
+H5,2019,2019,2019,0,0,1,Import,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61175245,,,4
+H5,2019,2019,2019,0,0,2,Export,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58491315,,,4
+H5,2019,2019,2019,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176596131348,,,4
+H5,2019,2019,2019,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171532054962,,,4
+H5,2019,2019,2019,0,0,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1021412304,,,4
+H5,2019,2019,2019,0,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2638897892,,,4
+H5,2019,2019,2019,0,0,1,Import,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884817452,,,4
+H5,2019,2019,2019,0,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,640085380,,,4
+H5,2019,2019,2019,0,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18588377144,,,4
+H5,2019,2019,2019,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14167263135,,,4
+H5,2019,2019,2019,0,0,1,Import,48,Bahrain,BHR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33378125,,,4
+H5,2019,2019,2019,0,0,2,Export,48,Bahrain,BHR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9539766,,,0
+H5,2019,2019,2019,0,0,1,Import,48,Bahrain,BHR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24724889,,,0
+H5,2019,2019,2019,0,0,2,Export,48,Bahrain,BHR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53051,,,0
+H5,2019,2019,2019,0,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5071644433,,,4
+H5,2019,2019,2019,0,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2620069449,,,4
+H5,2019,2019,2019,0,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1489345055,,,4
+H5,2019,2019,2019,0,0,2,Export,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719718895,,,4
+H5,2019,2019,2019,0,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146080902,,,4
+H5,2019,2019,2019,0,0,2,Export,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24571291,,,4
+H5,2019,2019,2019,0,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1580842477,,,4
+H5,2019,2019,2019,0,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444085369,,,4
+H5,2019,2019,2019,0,0,1,Import,52,Barbados,BRB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229657,,,4
+H5,2019,2019,2019,0,0,2,Export,52,Barbados,BRB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62207,,,0
+H5,2019,2019,2019,0,0,1,Import,52,Barbados,BRB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77269,,,4
+H5,2019,2019,2019,0,0,2,Export,52,Barbados,BRB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41,,,0
+H5,2019,2019,2019,0,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,318836417974,,,4
+H5,2019,2019,2019,0,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311745573780,,,4
+H5,2019,2019,2019,0,0,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6730900446,,,4
+H5,2019,2019,2019,0,0,2,Export,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3219721492,,,4
+H5,2019,2019,2019,0,0,1,Import,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,478029170,,,4
+H5,2019,2019,2019,0,0,2,Export,56,Belgium,BEL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,518615714,,,4
+H5,2019,2019,2019,0,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117764475,,,4
+H5,2019,2019,2019,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26832552,,,4
+H5,2019,2019,2019,0,0,1,Import,60,Bermuda,BMU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13807,,,4
+H5,2019,2019,2019,0,0,1,Import,60,Bermuda,BMU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48170,,,0
+H5,2019,2019,2019,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9824367971,,,4
+H5,2019,2019,2019,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8933330988,,,4
+H5,2019,2019,2019,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163073650,,,4
+H5,2019,2019,2019,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3934466,,,0
+H5,2019,2019,2019,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,765114,,,4
+H5,2019,2019,2019,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296358,,,0
+H5,2019,2019,2019,0,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11159040331,,,4
+H5,2019,2019,2019,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6578243902,,,4
+H5,2019,2019,2019,0,0,1,Import,70,Bosnia Herzegovina,BIH,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259001466,,,0
+H5,2019,2019,2019,0,0,2,Export,70,Bosnia Herzegovina,BIH,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75192129,,,4
+H5,2019,2019,2019,0,0,1,Import,70,Bosnia Herzegovina,BIH,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25020349,,,0
+H5,2019,2019,2019,0,0,2,Export,70,Bosnia Herzegovina,BIH,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5402841,,,0
+H5,2019,2019,2019,0,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6558523124,,,4
+H5,2019,2019,2019,0,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5238079155,,,4
+H5,2019,2019,2019,0,0,1,Import,72,Botswana,BWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140269441,,,0
+H5,2019,2019,2019,0,0,2,Export,72,Botswana,BWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2677938,,,4
+H5,2019,2019,2019,0,0,1,Import,72,Botswana,BWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1596396,,,0
+H5,2019,2019,2019,0,0,2,Export,72,Botswana,BWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542,,,0
+H5,2019,2019,2019,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,193162004038,,,4
+H5,2019,2019,2019,0,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221126807647,,,4
+H5,2019,2019,2019,0,0,1,Import,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3974540292,,,4
+H5,2019,2019,2019,0,0,2,Export,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1618719276,,,4
+H5,2019,2019,2019,0,0,1,Import,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112767394,,,4
+H5,2019,2019,2019,0,0,2,Export,76,Brazil,BRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111042425,,,4
+H5,2019,2019,2019,0,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,985904343,,,4
+H5,2019,2019,2019,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244908836,,,0
+H5,2019,2019,2019,0,0,1,Import,84,Belize,BLZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95321,,,0
+H5,2019,2019,2019,0,0,1,Import,84,Belize,BLZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36753,,,0
+H5,2019,2019,2019,0,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5102674118,,,4
+H5,2019,2019,2019,0,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7039083085,,,4
+H5,2019,2019,2019,0,0,1,Import,96,Brunei Darussalam,BRN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,632127,,,4
+H5,2019,2019,2019,0,0,1,Import,96,Brunei Darussalam,BRN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,596570,,,4
+H5,2019,2019,2019,0,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,37765114126,,,4
+H5,2019,2019,2019,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,33454448049,,,4
+H5,2019,2019,2019,0,0,1,Import,100,Bulgaria,BGR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3728544796,,,4
+H5,2019,2019,2019,0,0,2,Export,100,Bulgaria,BGR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587976750,,,4
+H5,2019,2019,2019,0,0,1,Import,100,Bulgaria,BGR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,599862907,,,4
+H5,2019,2019,2019,0,0,2,Export,100,Bulgaria,BGR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381566735,,,4
+H5,2019,2019,2019,0,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18610892495,,,4
+H5,2019,2019,2019,0,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18105885851,,,4
+H5,2019,2019,2019,0,0,1,Import,104,Myanmar,MMR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18428736,,,4
+H5,2019,2019,2019,0,0,2,Export,104,Myanmar,MMR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32423393,,,4
+H5,2019,2019,2019,0,0,1,Import,104,Myanmar,MMR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,28368480,,,4
+H5,2019,2019,2019,0,0,2,Export,104,Myanmar,MMR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1769110,,,4
+H5,2019,2019,2019,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,887018854,,,4
+H5,2019,2019,2019,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180717200,,,4
+H5,2019,2019,2019,0,0,1,Import,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17792572,,,0
+H5,2019,2019,2019,0,0,2,Export,108,Burundi,BDI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10002,,,0
+H5,2019,2019,2019,0,0,1,Import,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1378499,,,0
+H5,2019,2019,2019,0,0,2,Export,108,Burundi,BDI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177422,,,0
+H5,2019,2019,2019,0,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,39476679200,,,4
+H5,2019,2019,2019,0,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32955122400,,,4
+H5,2019,2019,2019,0,0,1,Import,112,Belarus,BLR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21623535100,,,4
+H5,2019,2019,2019,0,0,2,Export,112,Belarus,BLR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13624093100,,,4
+H5,2019,2019,2019,0,0,1,Import,112,Belarus,BLR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1682113300,,,4
+H5,2019,2019,2019,0,0,2,Export,112,Belarus,BLR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4141632600,,,4
+H5,2019,2019,2019,0,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20278818285,,,4
+H5,2019,2019,2019,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14824722293,,,4
+H5,2019,2019,2019,0,0,1,Import,116,Cambodia,KHM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3885582,,,4
+H5,2019,2019,2019,0,0,2,Export,116,Cambodia,KHM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51785291,,,4
+H5,2019,2019,2019,0,0,1,Import,116,Cambodia,KHM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1516097,,,0
+H5,2019,2019,2019,0,0,2,Export,116,Cambodia,KHM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2973707,,,0
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,453630813647,,,0
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,445492736489,,,0
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1402718672,,,0
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,499351582,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,110258114,,,0
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115140521,,,4
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,789705845,,,4
+H5,2019,2019,2019,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61879312,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1297348,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128583,,,4
+H5,2019,2019,2019,0,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19474314226,,,4
+H5,2019,2019,2019,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11974156365,,,4
+H5,2019,2019,2019,0,0,1,Import,144,Sri Lanka,LKA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206434812,,,4
+H5,2019,2019,2019,0,0,2,Export,144,Sri Lanka,LKA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169369858,,,4
+H5,2019,2019,2019,0,0,1,Import,144,Sri Lanka,LKA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74453573,,,4
+H5,2019,2019,2019,0,0,2,Export,144,Sri Lanka,LKA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28542609,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69591297855,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69681396828,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77016509,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,806914725,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7654738,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22615951,,,4
+H5,2019,2019,2019,0,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2079285499197,,,4
+H5,2019,2019,2019,0,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2499206993866,,,4
+H5,2019,2019,2019,0,0,1,Import,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61190631855,,,4
+H5,2019,2019,2019,0,0,2,Export,156,China,CHN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49748486510,,,4
+H5,2019,2019,2019,0,0,1,Import,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4509009448,,,4
+H5,2019,2019,2019,0,0,2,Export,156,China,CHN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7399574556,,,4
+H5,2019,2019,2019,0,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,52695881703,,,4
+H5,2019,2019,2019,0,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39489359461,,,4
+H5,2019,2019,2019,0,0,1,Import,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237268380,,,4
+H5,2019,2019,2019,0,0,2,Export,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94673380,,,4
+H5,2019,2019,2019,0,0,1,Import,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40037849,,,0
+H5,2019,2019,2019,0,0,2,Export,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31400205,,,0
+H5,2019,2019,2019,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201191155,,,4
+H5,2019,2019,2019,0,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49024220,,,4
+H5,2019,2019,2019,0,0,1,Import,174,Comoros,COM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612663,,,4
+H5,2019,2019,2019,0,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2242427608,,,4
+H5,2019,2019,2019,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5575942320,,,4
+H5,2019,2019,2019,0,0,1,Import,178,Congo,COG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37819920,,,0
+H5,2019,2019,2019,0,0,2,Export,178,Congo,COG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69905,,,0
+H5,2019,2019,2019,0,0,1,Import,178,Congo,COG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8125434,,,0
+H5,2019,2019,2019,0,0,2,Export,178,Congo,COG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14716,,,0
+H5,2019,2019,2019,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16106274382,,,4
+H5,2019,2019,2019,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11451993076,,,4
+H5,2019,2019,2019,0,0,1,Import,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65404708,,,4
+H5,2019,2019,2019,0,0,2,Export,188,Costa Rica,CRI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27890608,,,4
+H5,2019,2019,2019,0,0,1,Import,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60646389,,,4
+H5,2019,2019,2019,0,0,2,Export,188,Costa Rica,CRI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24606302,,,0
+H5,2019,2019,2019,0,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28004414329,,,4
+H5,2019,2019,2019,0,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17063049815,,,4
+H5,2019,2019,2019,0,0,1,Import,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330353208,,,4
+H5,2019,2019,2019,0,0,2,Export,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173586782,,,0
+H5,2019,2019,2019,0,0,1,Import,191,Croatia,HRV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40087966,,,0
+H5,2019,2019,2019,0,0,2,Export,191,Croatia,HRV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47442677,,,0
+H5,2019,2019,2019,0,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9179162776,,,4
+H5,2019,2019,2019,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3520898851,,,4
+H5,2019,2019,2019,0,0,1,Import,196,Cyprus,CYP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,112558994,,,4
+H5,2019,2019,2019,0,0,2,Export,196,Cyprus,CYP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29941124,,,0
+H5,2019,2019,2019,0,0,1,Import,196,Cyprus,CYP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33980733,,,0
+H5,2019,2019,2019,0,0,2,Export,196,Cyprus,CYP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11450595,,,0
+H5,2019,2019,2019,0,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,179273065047,,,4
+H5,2019,2019,2019,0,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,199469710335,,,4
+H5,2019,2019,2019,0,0,1,Import,203,Czechia,CZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5015050421,,,4
+H5,2019,2019,2019,0,0,2,Export,203,Czechia,CZE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4303006082,,,4
+H5,2019,2019,2019,0,0,1,Import,203,Czechia,CZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1219892687,,,4
+H5,2019,2019,2019,0,0,2,Export,203,Czechia,CZE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1524234360,,,4
+H5,2019,2019,2019,0,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2935994274,,,4
+H5,2019,2019,2019,0,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,850663575,,,4
+H5,2019,2019,2019,0,0,1,Import,204,Benin,BEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76321541,,,4
+H5,2019,2019,2019,0,0,2,Export,204,Benin,BEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,704046,,,0
+H5,2019,2019,2019,0,0,1,Import,204,Benin,BEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33709038,,,0
+H5,2019,2019,2019,0,0,2,Export,204,Benin,BEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18520520,,,0
+H5,2019,2019,2019,0,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97006756563,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109879084449,,,4
+H5,2019,2019,2019,0,0,1,Import,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1446236439,,,0
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,864862021,,,4
+H5,2019,2019,2019,0,0,1,Import,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249979426,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319856778,,,4
+H5,2019,2019,2019,0,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21983287128,,,4
+H5,2019,2019,2019,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11287199331,,,4
+H5,2019,2019,2019,0,0,1,Import,214,Dominican Rep.,DOM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68339881,,,4
+H5,2019,2019,2019,0,0,2,Export,214,Dominican Rep.,DOM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13524094,,,4
+H5,2019,2019,2019,0,0,1,Import,214,Dominican Rep.,DOM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4849566,,,4
+H5,2019,2019,2019,0,0,2,Export,214,Dominican Rep.,DOM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444363,,,0
+H5,2019,2019,2019,0,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,22564309274,,,4
+H5,2019,2019,2019,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22329378718,,,4
+H5,2019,2019,2019,0,0,1,Import,218,Ecuador,ECU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,300225365,,,4
+H5,2019,2019,2019,0,0,2,Export,218,Ecuador,ECU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,879670426,,,0
+H5,2019,2019,2019,0,0,1,Import,218,Ecuador,ECU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9140027,,,0
+H5,2019,2019,2019,0,0,2,Export,218,Ecuador,ECU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86664237,,,0
+H5,2019,2019,2019,0,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11602097258,,,4
+H5,2019,2019,2019,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5904956423,,,4
+H5,2019,2019,2019,0,0,1,Import,222,El Salvador,SLV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44159750,,,4
+H5,2019,2019,2019,0,0,2,Export,222,El Salvador,SLV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311208,,,0
+H5,2019,2019,2019,0,0,1,Import,222,El Salvador,SLV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1296815,,,0
+H5,2019,2019,2019,0,0,2,Export,222,El Salvador,SLV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593051,,,0
+H5,2019,2019,2019,0,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15533415853,,,4
+H5,2019,2019,2019,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2683752373,,,4
+H5,2019,2019,2019,0,0,1,Import,231,Ethiopia,ETH,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104151570,,,4
+H5,2019,2019,2019,0,0,2,Export,231,Ethiopia,ETH,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14354237,,,0
+H5,2019,2019,2019,0,0,1,Import,231,Ethiopia,ETH,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314987647,,,4
+H5,2019,2019,2019,0,0,2,Export,231,Ethiopia,ETH,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1343692,,,0
+H5,2019,2019,2019,0,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18669106128,,,4
+H5,2019,2019,2019,0,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,16807408470,,,4
+H5,2019,2019,2019,0,0,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1783950123,,,4
+H5,2019,2019,2019,0,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1407874783,,,4
+H5,2019,2019,2019,0,0,1,Import,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149973483,,,4
+H5,2019,2019,2019,0,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205047391,,,4
+H5,2019,2019,2019,0,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2781213915,,,4
+H5,2019,2019,2019,0,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,965150137,,,4
+H5,2019,2019,2019,0,0,1,Import,242,Fiji,FJI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334904,,,4
+H5,2019,2019,2019,0,0,2,Export,242,Fiji,FJI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87,,,0
+H5,2019,2019,2019,0,0,1,Import,242,Fiji,FJI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102761,,,4
+H5,2019,2019,2019,0,0,2,Export,242,Fiji,FJI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338807,,,4
+H5,2019,2019,2019,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,73719857019,,,4
+H5,2019,2019,2019,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72839176013,,,4
+H5,2019,2019,2019,0,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10007141716,,,4
+H5,2019,2019,2019,0,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4016721186,,,4
+H5,2019,2019,2019,0,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76861651,,,4
+H5,2019,2019,2019,0,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238308510,,,4
+H5,2019,2019,2019,0,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,643208112669,,,4
+H5,2019,2019,2019,0,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,556364114008,,,4
+H5,2019,2019,2019,0,0,1,Import,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9746586190,,,4
+H5,2019,2019,2019,0,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6277035394,,,4
+H5,2019,2019,2019,0,0,1,Import,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,796376307,,,4
+H5,2019,2019,2019,0,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1179251048,,,4
+H5,2019,2019,2019,0,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2118985633,,,4
+H5,2019,2019,2019,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,142134445,,,4
+H5,2019,2019,2019,0,0,1,Import,258,French Polynesia,PYF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194991,,,4
+H5,2019,2019,2019,0,0,1,Import,258,French Polynesia,PYF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330060,,,4
+H5,2019,2019,2019,0,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9519165552,,,4
+H5,2019,2019,2019,0,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3798330237,,,4
+H5,2019,2019,2019,0,0,1,Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,977118134,,,4
+H5,2019,2019,2019,0,0,2,Export,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,496974468,,,4
+H5,2019,2019,2019,0,0,1,Import,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415619492,,,4
+H5,2019,2019,2019,0,0,2,Export,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250923621,,,4
+H5,2019,2019,2019,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1239897203131,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1493266563850,,,4
+H5,2019,2019,2019,0,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25357165903,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30445081382,,,4
+H5,2019,2019,2019,0,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3244580755,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5492971080,,,4
+H5,2019,2019,2019,0,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10439795453,,,4
+H5,2019,2019,2019,0,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16768275189,,,4
+H5,2019,2019,2019,0,0,1,Import,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142318778,,,0
+H5,2019,2019,2019,0,0,2,Export,288,Ghana,GHA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7563533,,,0
+H5,2019,2019,2019,0,0,1,Import,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99861578,,,0
+H5,2019,2019,2019,0,0,2,Export,288,Ghana,GHA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75041562,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62198045283,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37885526504,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4569105037,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233471365,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208734718,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236025982,,,4
+H5,2019,2019,2019,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19870650527,,,4
+H5,2019,2019,2019,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11289176124,,,4
+H5,2019,2019,2019,0,0,1,Import,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111815370,,,4
+H5,2019,2019,2019,0,0,2,Export,320,Guatemala,GTM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8591455,,,0
+H5,2019,2019,2019,0,0,1,Import,320,Guatemala,GTM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,757193,,,4
+H5,2019,2019,2019,0,0,2,Export,320,Guatemala,GTM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20216185,,,0
+H5,2019,2019,2019,0,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4025139265,,,4
+H5,2019,2019,2019,0,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1565723059,,,4
+H5,2019,2019,2019,0,0,1,Import,328,Guyana,GUY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1377872,,,0
+H5,2019,2019,2019,0,0,2,Export,328,Guyana,GUY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5828,,,0
+H5,2019,2019,2019,0,0,1,Import,328,Guyana,GUY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1776998,,,0
+H5,2019,2019,2019,0,0,2,Export,328,Guyana,GUY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52201576,,,0
+H5,2019,2019,2019,0,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9156168376,,,4
+H5,2019,2019,2019,0,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3091163099,,,4
+H5,2019,2019,2019,0,0,1,Import,340,Honduras,HND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102604370,,,0
+H5,2019,2019,2019,0,0,2,Export,340,Honduras,HND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13287036,,,0
+H5,2019,2019,2019,0,0,1,Import,340,Honduras,HND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226777,,,0
+H5,2019,2019,2019,0,0,2,Export,340,Honduras,HND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1935235,,,0
+H5,2019,2019,2019,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,578590151014,,,4
+H5,2019,2019,2019,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,535711018905,,,4
+H5,2019,2019,2019,0,0,1,Import,344,"China, Hong Kong SAR",HKG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,982636121,,,4
+H5,2019,2019,2019,0,0,2,Export,344,"China, Hong Kong SAR",HKG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3481150272,,,4
+H5,2019,2019,2019,0,0,1,Import,344,"China, Hong Kong SAR",HKG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50776733,,,4
+H5,2019,2019,2019,0,0,2,Export,344,"China, Hong Kong SAR",HKG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249491245,,,4
+H5,2019,2019,2019,0,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,117324011167,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122180657695,,,4
+H5,2019,2019,2019,0,0,1,Import,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4471450876,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2026859490,,,4
+H5,2019,2019,2019,0,0,1,Import,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1809124374,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2392000341,,,4
+H5,2019,2019,2019,0,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6579003950,,,4
+H5,2019,2019,2019,0,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5228360516,,,4
+H5,2019,2019,2019,0,0,1,Import,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53351738,,,4
+H5,2019,2019,2019,0,0,2,Export,352,Iceland,ISL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79660240,,,4
+H5,2019,2019,2019,0,0,1,Import,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2652138,,,4
+H5,2019,2019,2019,0,0,2,Export,352,Iceland,ISL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33850473,,,4
+H5,2019,2019,2019,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171275708684,,,4
+H5,2019,2019,2019,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167682995133,,,4
+H5,2019,2019,2019,0,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204459341,,,4
+H5,2019,2019,2019,0,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,864080562,,,4
+H5,2019,2019,2019,0,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1008186629,,,0
+H5,2019,2019,2019,0,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256101645,,,0
+H5,2019,2019,2019,0,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101473369524,,,4
+H5,2019,2019,2019,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170743382636,,,4
+H5,2019,2019,2019,0,0,1,Import,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448320979,,,4
+H5,2019,2019,2019,0,0,2,Export,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,685660841,,,4
+H5,2019,2019,2019,0,0,1,Import,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111966178,,,4
+H5,2019,2019,2019,0,0,2,Export,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73240461,,,4
+H5,2019,2019,2019,0,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,76578559000,,,4
+H5,2019,2019,2019,0,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,58488466000,,,4
+H5,2019,2019,2019,0,0,1,Import,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2228802000,,,4
+H5,2019,2019,2019,0,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709218000,,,4
+H5,2019,2019,2019,0,0,1,Import,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,694466000,,,4
+H5,2019,2019,2019,0,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162069000,,,4
+H5,2019,2019,2019,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,474957327527,,,4
+H5,2019,2019,2019,0,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537748428817,,,4
+H5,2019,2019,2019,0,0,1,Import,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16037183258,,,4
+H5,2019,2019,2019,0,0,2,Export,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8824050211,,,4
+H5,2019,2019,2019,0,0,1,Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2799972287,,,4
+H5,2019,2019,2019,0,0,2,Export,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1961605046,,,4
+H5,2019,2019,2019,0,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10482560553,,,4
+H5,2019,2019,2019,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12717851545,,,4
+H5,2019,2019,2019,0,0,1,Import,384,Côte d'Ivoire,CIV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115061939,,,0
+H5,2019,2019,2019,0,0,2,Export,384,Côte d'Ivoire,CIV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7562633,,,0
+H5,2019,2019,2019,0,0,1,Import,384,Côte d'Ivoire,CIV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65684530,,,0
+H5,2019,2019,2019,0,0,2,Export,384,Côte d'Ivoire,CIV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561571,,,0
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6389126910,,,4
+H5,2019,2019,2019,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1651161084,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376996,,,0
+H5,2019,2019,2019,0,0,2,Export,388,Jamaica,JAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64897063,,,0
+H5,2019,2019,2019,0,0,2,Export,388,Jamaica,JAM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58225,,,0
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721077406256,,,4
+H5,2019,2019,2019,0,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705671082765,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14317380954,,,4
+H5,2019,2019,2019,0,0,2,Export,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7178484711,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709813061,,,4
+H5,2019,2019,2019,0,0,2,Export,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,550018427,,,4
+H5,2019,2019,2019,0,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38356657543,,,4
+H5,2019,2019,2019,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57722940896,,,4
+H5,2019,2019,2019,0,0,1,Import,398,Kazakhstan,KAZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14065055227,,,4
+H5,2019,2019,2019,0,0,2,Export,398,Kazakhstan,KAZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5602531932,,,4
+H5,2019,2019,2019,0,0,1,Import,398,Kazakhstan,KAZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378882903,,,4
+H5,2019,2019,2019,0,0,2,Export,398,Kazakhstan,KAZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,962718407,,,4
+H5,2019,2019,2019,0,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19336708718,,,4
+H5,2019,2019,2019,0,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8312916561,,,4
+H5,2019,2019,2019,0,0,1,Import,400,Jordan,JOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234792608,,,4
+H5,2019,2019,2019,0,0,2,Export,400,Jordan,JOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3023228,,,0
+H5,2019,2019,2019,0,0,1,Import,400,Jordan,JOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183883011,,,4
+H5,2019,2019,2019,0,0,2,Export,400,Jordan,JOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14337167,,,0
+H5,2019,2019,2019,0,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17210001018,,,4
+H5,2019,2019,2019,0,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5836255973,,,4
+H5,2019,2019,2019,0,0,1,Import,404,Kenya,KEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313348823,,,4
+H5,2019,2019,2019,0,0,2,Export,404,Kenya,KEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62223610,,,4
+H5,2019,2019,2019,0,0,1,Import,404,Kenya,KEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68157351,,,4
+H5,2019,2019,2019,0,0,2,Export,404,Kenya,KEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6323520,,,0
+H5,2019,2019,2019,0,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,503262910727,,,4
+H5,2019,2019,2019,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542171769089,,,4
+H5,2019,2019,2019,0,0,1,Import,410,Rep. of Korea,KOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14566506642,,,4
+H5,2019,2019,2019,0,0,2,Export,410,Rep. of Korea,KOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7774022013,,,4
+H5,2019,2019,2019,0,0,1,Import,410,Rep. of Korea,KOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455818483,,,4
+H5,2019,2019,2019,0,0,2,Export,410,Rep. of Korea,KOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348735564,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33530892789,,,4
+H5,2019,2019,2019,0,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64482096620,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147946619,,,0
+H5,2019,2019,2019,0,0,2,Export,414,Kuwait,KWT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3312200,,,0
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52174800,,,4
+H5,2019,2019,2019,0,0,2,Export,414,Kuwait,KWT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,774472,,,0
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4988946048,,,4
+H5,2019,2019,2019,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1986109552,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1404285223,,,4
+H5,2019,2019,2019,0,0,2,Export,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281252923,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48471885,,,4
+H5,2019,2019,2019,0,0,2,Export,417,Kyrgyzstan,KGZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13630197,,,0
+H5,2019,2019,2019,0,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5797444591,,,4
+H5,2019,2019,2019,0,0,2,Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5809346160,,,4
+H5,2019,2019,2019,0,0,1,Import,418,Lao People's Dem. Rep.,LAO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10732979,,,0
+H5,2019,2019,2019,0,0,2,Export,418,Lao People's Dem. Rep.,LAO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341442,,,0
+H5,2019,2019,2019,0,0,1,Import,418,Lao People's Dem. Rep.,LAO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,845249,,,0
+H5,2019,2019,2019,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19239178794,,,4
+H5,2019,2019,2019,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3731340090,,,4
+H5,2019,2019,2019,0,0,1,Import,422,Lebanon,LBN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1343868082,,,4
+H5,2019,2019,2019,0,0,2,Export,422,Lebanon,LBN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8111311,,,4
+H5,2019,2019,2019,0,0,1,Import,422,Lebanon,LBN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287844558,,,4
+H5,2019,2019,2019,0,0,2,Export,422,Lebanon,LBN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1563858,,,0
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17767574788,,,4
+H5,2019,2019,2019,0,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14447101696,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1209071643,,,4
+H5,2019,2019,2019,0,0,2,Export,428,Latvia,LVA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1323923277,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207084570,,,4
+H5,2019,2019,2019,0,0,2,Export,428,Latvia,LVA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171351475,,,4
+H5,2019,2019,2019,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35759415639,,,4
+H5,2019,2019,2019,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33150771896,,,4
+H5,2019,2019,2019,0,0,1,Import,440,Lithuania,LTU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5189608916,,,4
+H5,2019,2019,2019,0,0,2,Export,440,Lithuania,LTU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4632258024,,,4
+H5,2019,2019,2019,0,0,1,Import,440,Lithuania,LTU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356834528,,,4
+H5,2019,2019,2019,0,0,2,Export,440,Lithuania,LTU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1199384765,,,4
+H5,2019,2019,2019,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22673692574,,,4
+H5,2019,2019,2019,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14667446910,,,4
+H5,2019,2019,2019,0,0,1,Import,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55940190,,,4
+H5,2019,2019,2019,0,0,2,Export,442,Luxembourg,LUX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182657927,,,4
+H5,2019,2019,2019,0,0,1,Import,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43735157,,,0
+H5,2019,2019,2019,0,0,2,Export,442,Luxembourg,LUX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29422990,,,0
+H5,2019,2019,2019,0,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12024018851,,,4
+H5,2019,2019,2019,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1023983031,,,4
+H5,2019,2019,2019,0,0,1,Import,446,"China, Macao SAR",MAC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6015374,,,4
+H5,2019,2019,2019,0,0,1,Import,446,"China, Macao SAR",MAC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1190699,,,4
+H5,2019,2019,2019,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3944263148,,,4
+H5,2019,2019,2019,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2688948366,,,4
+H5,2019,2019,2019,0,0,1,Import,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7705647,,,0
+H5,2019,2019,2019,0,0,2,Export,450,Madagascar,MDG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2077284,,,0
+H5,2019,2019,2019,0,0,1,Import,450,Madagascar,MDG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4034644,,,0
+H5,2019,2019,2019,0,0,2,Export,450,Madagascar,MDG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3069,,,0
+H5,2019,2019,2019,0,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2940940382,,,4
+H5,2019,2019,2019,0,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,912832375,,,4
+H5,2019,2019,2019,0,0,1,Import,454,Malawi,MWI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11901882,,,0
+H5,2019,2019,2019,0,0,2,Export,454,Malawi,MWI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32905545,,,0
+H5,2019,2019,2019,0,0,1,Import,454,Malawi,MWI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6770318,,,0
+H5,2019,2019,2019,0,0,2,Export,454,Malawi,MWI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23516966,,,0
+H5,2019,2019,2019,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,205030495401,,,4
+H5,2019,2019,2019,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,240211905652,,,4
+H5,2019,2019,2019,0,0,1,Import,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1077005000,,,4
+H5,2019,2019,2019,0,0,2,Export,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,880271666,,,4
+H5,2019,2019,2019,0,0,1,Import,458,Malaysia,MYS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244610146,,,4
+H5,2019,2019,2019,0,0,2,Export,458,Malaysia,MYS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118809597,,,4
+H5,2019,2019,2019,0,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2887030894,,,4
+H5,2019,2019,2019,0,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158015478,,,4
+H5,2019,2019,2019,0,0,1,Import,462,Maldives,MDV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3411489,,,4
+H5,2019,2019,2019,0,0,2,Export,462,Maldives,MDV,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102,,,4
+H5,2019,2019,2019,0,0,1,Import,462,Maldives,MDV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1963625,,,4
+H5,2019,2019,2019,0,0,2,Export,462,Maldives,MDV,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19505,,,0
+H5,2019,2019,2019,0,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5048548619,,,4
+H5,2019,2019,2019,0,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3643236512,,,4
+H5,2019,2019,2019,0,0,1,Import,466,Mali,MLI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72107292,,,0
+H5,2019,2019,2019,0,0,2,Export,466,Mali,MLI,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237184,,,0
+H5,2019,2019,2019,0,0,1,Import,466,Mali,MLI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34885022,,,0
+H5,2019,2019,2019,0,0,2,Export,466,Mali,MLI,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2446405,,,0
+H5,2019,2019,2019,0,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8211008645,,,4
+H5,2019,2019,2019,0,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4142922134,,,4
+H5,2019,2019,2019,0,0,1,Import,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320558068,,,4
+H5,2019,2019,2019,0,0,2,Export,470,Malta,MLT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6503423,,,4
+H5,2019,2019,2019,0,0,1,Import,470,Malta,MLT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3839476,,,4
+H5,2019,2019,2019,0,0,2,Export,470,Malta,MLT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1891202,,,4
+H5,2019,2019,2019,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5601184454,,,4
+H5,2019,2019,2019,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1876368427,,,4
+H5,2019,2019,2019,0,0,1,Import,480,Mauritius,MUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1973219,,,4
+H5,2019,2019,2019,0,0,2,Export,480,Mauritius,MUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2106716,,,0
+H5,2019,2019,2019,0,0,1,Import,480,Mauritius,MUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3420922,,,4
+H5,2019,2019,2019,0,0,2,Export,480,Mauritius,MUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167532,,,0
+H5,2019,2019,2019,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285931193664,,,4
+H5,2019,2019,2019,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329483858291,,,4
+H5,2019,2019,2019,0,0,1,Import,490,"Other Asia, nes",,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3148898943,,,4
+H5,2019,2019,2019,0,0,2,Export,490,"Other Asia, nes",,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1120612355,,,4
+H5,2019,2019,2019,0,0,1,Import,490,"Other Asia, nes",,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133470319,,,4
+H5,2019,2019,2019,0,0,2,Export,490,"Other Asia, nes",,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145347885,,,4
+H5,2019,2019,2019,0,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6127355631,,,4
+H5,2019,2019,2019,0,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7619753899,,,4
+H5,2019,2019,2019,0,0,1,Import,496,Mongolia,MNG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1729863706,,,4
+H5,2019,2019,2019,0,0,2,Export,496,Mongolia,MNG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68093301,,,4
+H5,2019,2019,2019,0,0,1,Import,496,Mongolia,MNG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29607442,,,4
+H5,2019,2019,2019,0,0,2,Export,496,Mongolia,MNG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187480,,,0
+H5,2019,2019,2019,0,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2908435630,,,4
+H5,2019,2019,2019,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,463202279,,,4
+H5,2019,2019,2019,0,0,1,Import,499,Montenegro,MNE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10012699,,,4
+H5,2019,2019,2019,0,0,2,Export,499,Montenegro,MNE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2014936,,,0
+H5,2019,2019,2019,0,0,1,Import,499,Montenegro,MNE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9638665,,,0
+H5,2019,2019,2019,0,0,2,Export,499,Montenegro,MNE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3601596,,,0
+H5,2019,2019,2019,0,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51048929466,,,4
+H5,2019,2019,2019,0,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29582399076,,,4
+H5,2019,2019,2019,0,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1364198479,,,4
+H5,2019,2019,2019,0,0,2,Export,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286839999,,,0
+H5,2019,2019,2019,0,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351130161,,,0
+H5,2019,2019,2019,0,0,2,Export,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71096818,,,0
+H5,2019,2019,2019,0,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7638738251,,,4
+H5,2019,2019,2019,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4722313201,,,4
+H5,2019,2019,2019,0,0,1,Import,508,Mozambique,MOZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72614481,,,4
+H5,2019,2019,2019,0,0,2,Export,508,Mozambique,MOZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5021969,,,4
+H5,2019,2019,2019,0,0,1,Import,508,Mozambique,MOZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4403578,,,4
+H5,2019,2019,2019,0,0,2,Export,508,Mozambique,MOZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2641463,,,4
+H5,2019,2019,2019,0,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23506693600,,,4
+H5,2019,2019,2019,0,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38723580348,,,4
+H5,2019,2019,2019,0,0,1,Import,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142578884,,,4
+H5,2019,2019,2019,0,0,2,Export,512,Oman,OMN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5296818,,,0
+H5,2019,2019,2019,0,0,1,Import,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57429742,,,0
+H5,2019,2019,2019,0,0,2,Export,512,Oman,OMN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7765671,,,0
+H5,2019,2019,2019,0,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8086034607,,,4
+H5,2019,2019,2019,0,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6256147591,,,4
+H5,2019,2019,2019,0,0,1,Import,516,Namibia,NAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26445932,,,4
+H5,2019,2019,2019,0,0,2,Export,516,Namibia,NAM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2672154,,,4
+H5,2019,2019,2019,0,0,1,Import,516,Namibia,NAM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4079851,,,4
+H5,2019,2019,2019,0,0,2,Export,516,Namibia,NAM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82118,,,4
+H5,2019,2019,2019,0,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12325259053,,,4
+H5,2019,2019,2019,0,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,959628520,,,4
+H5,2019,2019,2019,0,0,1,Import,524,Nepal,NPL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19394165,,,4
+H5,2019,2019,2019,0,0,2,Export,524,Nepal,NPL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1777483,,,4
+H5,2019,2019,2019,0,0,1,Import,524,Nepal,NPL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88098971,,,4
+H5,2019,2019,2019,0,0,2,Export,524,Nepal,NPL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171674,,,4
+H5,2019,2019,2019,0,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514857687783,,,4
+H5,2019,2019,2019,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576784455411,,,4
+H5,2019,2019,2019,0,0,1,Import,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17505863422,,,4
+H5,2019,2019,2019,0,0,2,Export,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7218004603,,,4
+H5,2019,2019,2019,0,0,1,Import,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2026683098,,,4
+H5,2019,2019,2019,0,0,2,Export,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1242698033,,,4
+H5,2019,2019,2019,0,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42271276496,,,4
+H5,2019,2019,2019,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,39539825796,,,4
+H5,2019,2019,2019,0,0,1,Import,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410692600,,,4
+H5,2019,2019,2019,0,0,2,Export,554,New Zealand,NZL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193655781,,,4
+H5,2019,2019,2019,0,0,1,Import,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17739870,,,4
+H5,2019,2019,2019,0,0,2,Export,554,New Zealand,NZL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13003390,,,4
+H5,2019,2019,2019,0,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6985484651,,,4
+H5,2019,2019,2019,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5272553121,,,4
+H5,2019,2019,2019,0,0,1,Import,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60483136,,,4
+H5,2019,2019,2019,0,0,2,Export,558,Nicaragua,NIC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12108919,,,0
+H5,2019,2019,2019,0,0,1,Import,558,Nicaragua,NIC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1037048,,,0
+H5,2019,2019,2019,0,0,2,Export,558,Nicaragua,NIC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6085249,,,0
+H5,2019,2019,2019,0,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2770193456,,,4
+H5,2019,2019,2019,0,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,855080224,,,4
+H5,2019,2019,2019,0,0,1,Import,562,Niger,NER,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3366386,,,4
+H5,2019,2019,2019,0,0,2,Export,562,Niger,NER,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59929,,,4
+H5,2019,2019,2019,0,0,1,Import,562,Niger,NER,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15743409,,,4
+H5,2019,2019,2019,0,0,2,Export,562,Niger,NER,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31586,,,4
+H5,2019,2019,2019,0,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86144982447,,,4
+H5,2019,2019,2019,0,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104029881468,,,4
+H5,2019,2019,2019,0,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1996694266,,,0
+H5,2019,2019,2019,0,0,2,Export,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,349337328,,,4
+H5,2019,2019,2019,0,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62472525,,,0
+H5,2019,2019,2019,0,0,2,Export,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192578186,,,4
+H5,2019,2019,2019,0,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50063059560,,,4
+H5,2019,2019,2019,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23748680252,,,4
+H5,2019,2019,2019,0,0,1,Import,586,Pakistan,PAK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222909997,,,4
+H5,2019,2019,2019,0,0,2,Export,586,Pakistan,PAK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141205514,,,4
+H5,2019,2019,2019,0,0,1,Import,586,Pakistan,PAK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61312311,,,4
+H5,2019,2019,2019,0,0,2,Export,586,Pakistan,PAK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50933103,,,4
+H5,2019,2019,2019,0,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21484233253,,,0
+H5,2019,2019,2019,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10478059526,,,0
+H5,2019,2019,2019,0,0,1,Import,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24222573,,,4
+H5,2019,2019,2019,0,0,2,Export,591,Panama,PAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,676334,,,4
+H5,2019,2019,2019,0,0,1,Import,591,Panama,PAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1438104,,,4
+H5,2019,2019,2019,0,0,2,Export,591,Panama,PAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,352458,,,0
+H5,2019,2019,2019,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12187394825,,,4
+H5,2019,2019,2019,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7652035474,,,4
+H5,2019,2019,2019,0,0,1,Import,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71810208,,,4
+H5,2019,2019,2019,0,0,2,Export,600,Paraguay,PRY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,605341481,,,4
+H5,2019,2019,2019,0,0,1,Import,600,Paraguay,PRY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,742138,,,4
+H5,2019,2019,2019,0,0,2,Export,600,Paraguay,PRY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241445,,,0
+H5,2019,2019,2019,0,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42376434141,,,4
+H5,2019,2019,2019,0,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46131564759,,,4
+H5,2019,2019,2019,0,0,1,Import,604,Peru,PER,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367660335,,,4
+H5,2019,2019,2019,0,0,2,Export,604,Peru,PER,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211132199,,,0
+H5,2019,2019,2019,0,0,1,Import,604,Peru,PER,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30561479,,,4
+H5,2019,2019,2019,0,0,2,Export,604,Peru,PER,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3201654,,,4
+H5,2019,2019,2019,0,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,117247264757,,,4
+H5,2019,2019,2019,0,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,70926674490,,,4
+H5,2019,2019,2019,0,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1045330002,,,4
+H5,2019,2019,2019,0,0,2,Export,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102263811,,,4
+H5,2019,2019,2019,0,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319709910,,,4
+H5,2019,2019,2019,0,0,2,Export,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4787351,,,4
+H5,2019,2019,2019,0,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246653880235,,,4
+H5,2019,2019,2019,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251864773270,,,4
+H5,2019,2019,2019,0,0,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16014231794,,,4
+H5,2019,2019,2019,0,0,2,Export,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7864094561,,,4
+H5,2019,2019,2019,0,0,1,Import,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2900606672,,,4
+H5,2019,2019,2019,0,0,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5291725533,,,4
+H5,2019,2019,2019,0,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89541379731,,,4
+H5,2019,2019,2019,0,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67064074174,,,4
+H5,2019,2019,2019,0,0,1,Import,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1223978231,,,4
+H5,2019,2019,2019,0,0,2,Export,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216849028,,,4
+H5,2019,2019,2019,0,0,1,Import,620,Portugal,PRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297636591,,,4
+H5,2019,2019,2019,0,0,2,Export,620,Portugal,PRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28603347,,,4
+H5,2019,2019,2019,0,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,96644318708,,,4
+H5,2019,2019,2019,0,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,77298748437,,,4
+H5,2019,2019,2019,0,0,1,Import,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3472940829,,,4
+H5,2019,2019,2019,0,0,2,Export,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1143012517,,,4
+H5,2019,2019,2019,0,0,1,Import,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1044405451,,,4
+H5,2019,2019,2019,0,0,2,Export,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,690732027,,,4
+H5,2019,2019,2019,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247161342900,,,4
+H5,2019,2019,2019,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426720332660,,,4
+H5,2019,2019,2019,0,0,1,Import,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4845318578,,,4
+H5,2019,2019,2019,0,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6619028665,,,4
+H5,2019,2019,2019,0,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3195163442,,,4
+H5,2019,2019,2019,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1161750594,,,4
+H5,2019,2019,2019,0,0,1,Import,646,Rwanda,RWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36913842,,,0
+H5,2019,2019,2019,0,0,2,Export,646,Rwanda,RWA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3071336,,,0
+H5,2019,2019,2019,0,0,1,Import,646,Rwanda,RWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5685471,,,0
+H5,2019,2019,2019,0,0,2,Export,646,Rwanda,RWA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63536,,,0
+H5,2019,2019,2019,0,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8143734073,,,4
+H5,2019,2019,2019,0,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4178514674,,,4
+H5,2019,2019,2019,0,0,1,Import,686,Senegal,SEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,363844336,,,0
+H5,2019,2019,2019,0,0,2,Export,686,Senegal,SEN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6181052,,,0
+H5,2019,2019,2019,0,0,1,Import,686,Senegal,SEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144420963,,,0
+H5,2019,2019,2019,0,0,2,Export,686,Senegal,SEN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,874447,,,0
+H5,2019,2019,2019,0,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26730093636,,,4
+H5,2019,2019,2019,0,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19633048518,,,4
+H5,2019,2019,2019,0,0,1,Import,688,Serbia,SRB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2583949670,,,4
+H5,2019,2019,2019,0,0,2,Export,688,Serbia,SRB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,977178781,,,4
+H5,2019,2019,2019,0,0,1,Import,688,Serbia,SRB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,359912388,,,4
+H5,2019,2019,2019,0,0,2,Export,688,Serbia,SRB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146510271,,,4
+H5,2019,2019,2019,0,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1437735992,,,4
+H5,2019,2019,2019,0,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,824038383,,,4
+H5,2019,2019,2019,0,0,1,Import,690,Seychelles,SYC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1249116,,,4
+H5,2019,2019,2019,0,0,2,Export,690,Seychelles,SYC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15300,,,0
+H5,2019,2019,2019,0,0,1,Import,690,Seychelles,SYC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1437062,,,4
+H5,2019,2019,2019,0,0,2,Export,690,Seychelles,SYC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158821,,,0
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,478883729111,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323250726424,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6226189464,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2871228560,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2091748382,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456830281,,,4
+H5,2019,2019,2019,0,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358974637219,,,4
+H5,2019,2019,2019,0,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390331757374,,,4
+H5,2019,2019,2019,0,0,1,Import,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4717527602,,,4
+H5,2019,2019,2019,0,0,2,Export,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,549734657,,,4
+H5,2019,2019,2019,0,0,1,Import,702,Singapore,SGP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213714829,,,4
+H5,2019,2019,2019,0,0,2,Export,702,Singapore,SGP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23058216,,,4
+H5,2019,2019,2019,0,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,90908108589,,,4
+H5,2019,2019,2019,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89909085415,,,4
+H5,2019,2019,2019,0,0,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4994590536,,,4
+H5,2019,2019,2019,0,0,2,Export,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1595548507,,,4
+H5,2019,2019,2019,0,0,1,Import,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,689293158,,,4
+H5,2019,2019,2019,0,0,2,Export,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,770444668,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253442015854,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264610322649,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1835113094,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2667593147,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124154784,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247573043,,,4
+H5,2019,2019,2019,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38162054184,,,4
+H5,2019,2019,2019,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,37574594379,,,4
+H5,2019,2019,2019,0,0,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,683429299,,,0
+H5,2019,2019,2019,0,0,2,Export,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,991930406,,,0
+H5,2019,2019,2019,0,0,1,Import,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66442867,,,0
+H5,2019,2019,2019,0,0,2,Export,705,Slovenia,SVN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243751835,,,0
+H5,2019,2019,2019,0,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,88037490927,,,4
+H5,2019,2019,2019,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89395988333,,,4
+H5,2019,2019,2019,0,0,1,Import,710,South Africa,ZAF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,530067734,,,4
+H5,2019,2019,2019,0,0,2,Export,710,South Africa,ZAF,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380468116,,,4
+H5,2019,2019,2019,0,0,1,Import,710,South Africa,ZAF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53080261,,,4
+H5,2019,2019,2019,0,0,2,Export,710,South Africa,ZAF,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39722266,,,4
+H5,2019,2019,2019,0,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4787446790,,,4
+H5,2019,2019,2019,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4279383537,,,4
+H5,2019,2019,2019,0,0,1,Import,716,Zimbabwe,ZWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28947212,,,0
+H5,2019,2019,2019,0,0,2,Export,716,Zimbabwe,ZWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79493,,,0
+H5,2019,2019,2019,0,0,1,Import,716,Zimbabwe,ZWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9257330,,,0
+H5,2019,2019,2019,0,0,2,Export,716,Zimbabwe,ZWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15119,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,375485170269,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,337215113876,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3853396357,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2299593363,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1803532685,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,687021734,,,4
+H5,2019,2019,2019,0,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1832435797,,,4
+H5,2019,2019,2019,0,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2001636601,,,4
+H5,2019,2019,2019,0,0,1,Import,748,Eswatini,SWZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1420765,,,0
+H5,2019,2019,2019,0,0,2,Export,748,Eswatini,SWZ,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1805582,,,0
+H5,2019,2019,2019,0,0,1,Import,748,Eswatini,SWZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14855,,,0
+H5,2019,2019,2019,0,0,2,Export,748,Eswatini,SWZ,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68151,,,0
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,158958177893,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,160531242220,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4273415170,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2216376301,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96583137,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407100023,,,4
+H5,2019,2019,2019,0,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,276388086970,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,313685932750,,,4
+H5,2019,2019,2019,0,0,1,Import,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452494166,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3135888766,,,4
+H5,2019,2019,2019,0,0,1,Import,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157950277,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461495978,,,4
+H5,2019,2019,2019,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,216804755195,,,4
+H5,2019,2019,2019,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,233674439906,,,4
+H5,2019,2019,2019,0,0,1,Import,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2074844638,,,4
+H5,2019,2019,2019,0,0,2,Export,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919819316,,,4
+H5,2019,2019,2019,0,0,1,Import,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392325462,,,4
+H5,2019,2019,2019,0,0,2,Export,764,Thailand,THA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102581755,,,4
+H5,2019,2019,2019,0,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1787367279,,,4
+H5,2019,2019,2019,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1011137878,,,4
+H5,2019,2019,2019,0,0,1,Import,768,Togo,TGO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15956806,,,0
+H5,2019,2019,2019,0,0,1,Import,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28905585,,,0
+H5,2019,2019,2019,0,0,2,Export,768,Togo,TGO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283483,,,0
+H5,2019,2019,2019,0,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288446698975,,,4
+H5,2019,2019,2019,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389427993903,,,4
+H5,2019,2019,2019,0,0,1,Import,784,United Arab Emirates,ARE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2794414182,,,4
+H5,2019,2019,2019,0,0,2,Export,784,United Arab Emirates,ARE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,887587395,,,4
+H5,2019,2019,2019,0,0,1,Import,784,United Arab Emirates,ARE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,608829801,,,4
+H5,2019,2019,2019,0,0,2,Export,784,United Arab Emirates,ARE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197584360,,,4
+H5,2019,2019,2019,0,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21573846826,,,4
+H5,2019,2019,2019,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14944087490,,,4
+H5,2019,2019,2019,0,0,1,Import,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,499597570,,,0
+H5,2019,2019,2019,0,0,2,Export,788,Tunisia,TUN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29339728,,,0
+H5,2019,2019,2019,0,0,1,Import,788,Tunisia,TUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443136623,,,0
+H5,2019,2019,2019,0,0,2,Export,788,Tunisia,TUN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4670168,,,0
+H5,2019,2019,2019,0,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,210345202552,,,4
+H5,2019,2019,2019,0,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,180832721702,,,4
+H5,2019,2019,2019,0,0,1,Import,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23115236226,,,4
+H5,2019,2019,2019,0,0,2,Export,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4152137036,,,4
+H5,2019,2019,2019,0,0,1,Import,792,Turkey,TUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2725419185,,,0
+H5,2019,2019,2019,0,0,2,Export,792,Turkey,TUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2156453677,,,4
+H5,2019,2019,2019,0,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7696028888,,,4
+H5,2019,2019,2019,0,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3563784978,,,4
+H5,2019,2019,2019,0,0,1,Import,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81615430,,,0
+H5,2019,2019,2019,0,0,2,Export,800,Uganda,UGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7394588,,,0
+H5,2019,2019,2019,0,0,1,Import,800,Uganda,UGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38949395,,,0
+H5,2019,2019,2019,0,0,2,Export,800,Uganda,UGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1942916,,,0
+H5,2019,2019,2019,0,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9445513386,,,4
+H5,2019,2019,2019,0,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7195140900,,,4
+H5,2019,2019,2019,0,0,1,Import,807,North Macedonia,MKD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142409512,,,4
+H5,2019,2019,2019,0,0,2,Export,807,North Macedonia,MKD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52140323,,,4
+H5,2019,2019,2019,0,0,1,Import,807,North Macedonia,MKD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139560293,,,4
+H5,2019,2019,2019,0,0,2,Export,807,North Macedonia,MKD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12675452,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,692494170352,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468322416147,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14123853748,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3375962457,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,756605164,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658086856,,,4
+H5,2019,2019,2019,0,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9054671035,,,4
+H5,2019,2019,2019,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5003764881,,,4
+H5,2019,2019,2019,0,0,1,Import,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48077732,,,4
+H5,2019,2019,2019,0,0,2,Export,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6165981,,,0
+H5,2019,2019,2019,0,0,1,Import,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8783046,,,4
+H5,2019,2019,2019,0,0,2,Export,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,847077,,,0
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2567492197103,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1644276220783,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23185179447,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5786748446,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1359495942,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2354801476,,,4
+H5,2019,2019,2019,0,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4259319002,,,4
+H5,2019,2019,2019,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3261104826,,,4
+H5,2019,2019,2019,0,0,1,Import,854,Burkina Faso,BFA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335847591,,,0
+H5,2019,2019,2019,0,0,2,Export,854,Burkina Faso,BFA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56746,,,0
+H5,2019,2019,2019,0,0,1,Import,854,Burkina Faso,BFA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21218215,,,0
+H5,2019,2019,2019,0,0,2,Export,854,Burkina Faso,BFA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,442503,,,0
+H5,2019,2019,2019,0,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8245758796,,,4
+H5,2019,2019,2019,0,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7680372439,,,4
+H5,2019,2019,2019,0,0,1,Import,858,Uruguay,URY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46853331,,,4
+H5,2019,2019,2019,0,0,2,Export,858,Uruguay,URY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156821903,,,0
+H5,2019,2019,2019,0,0,1,Import,858,Uruguay,URY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,628603,,,0
+H5,2019,2019,2019,0,0,2,Export,858,Uruguay,URY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,599087,,,4
+H5,2019,2019,2019,0,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21867269545,,,4
+H5,2019,2019,2019,0,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14929506690,,,4
+H5,2019,2019,2019,0,0,1,Import,860,Uzbekistan,UZB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3974192820,,,4
+H5,2019,2019,2019,0,0,2,Export,860,Uzbekistan,UZB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2034723460,,,4
+H5,2019,2019,2019,0,0,1,Import,860,Uzbekistan,UZB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263899266,,,4
+H5,2019,2019,2019,0,0,2,Export,860,Uzbekistan,UZB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113627658,,,4
+H5,2019,2019,2019,0,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4715958741,,,4
+H5,2019,2019,2019,0,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23783553,,,0
+H5,2019,2019,2019,0,0,1,Import,887,Yemen,YEM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147046692,,,0
+H5,2019,2019,2019,0,0,1,Import,887,Yemen,YEM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83724001,,,0
+H5,2019,2019,2019,0,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7221084744,,,4
+H5,2019,2019,2019,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7029095024,,,4
+H5,2019,2019,2019,0,0,1,Import,894,Zambia,ZMB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9663475,,,0
+H5,2019,2019,2019,0,0,2,Export,894,Zambia,ZMB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239152,,,0
+H5,2019,2019,2019,0,0,1,Import,894,Zambia,ZMB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3761748,,,0
+H5,2019,2019,2019,0,0,2,Export,894,Zambia,ZMB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111451,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8568013876,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,870488512,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260518342,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2021828,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4187070,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100121,,,0
+H4,2019,2019,2019,0,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8824801939,,,4
+H4,2019,2019,2019,0,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13382299169,,,4
+H4,2019,2019,2019,0,0,1,Import,180,Dem. Rep. of the Congo,COD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155921660,,,0
+H4,2019,2019,2019,0,0,2,Export,180,Dem. Rep. of the Congo,COD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52555,,,0
+H4,2019,2019,2019,0,0,1,Import,180,Dem. Rep. of the Congo,COD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14658823,,,0
+H4,2019,2019,2019,0,0,2,Export,180,Dem. Rep. of the Congo,COD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190037,,,0
+H4,2019,2019,2019,0,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494031876,,,4
+H4,2019,2019,2019,0,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24602270,,,4
+H4,2019,2019,2019,0,0,1,Import,270,Gambia,GMB,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3723511,,,4
+H4,2019,2019,2019,0,0,1,Import,270,Gambia,GMB,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1807023,,,0
+H4,2019,2019,2019,0,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6613453678,,,4
+H4,2019,2019,2019,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1103808331,,,4
+H4,2019,2019,2019,0,0,1,Import,275,State of Palestine,PSE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21221890,,,4
+H4,2019,2019,2019,0,0,2,Export,275,State of Palestine,PSE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162057,,,4
+H4,2019,2019,2019,0,0,1,Import,275,State of Palestine,PSE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59591658,,,4
+H4,2019,2019,2019,0,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,479834567,,,4
+H4,2019,2019,2019,0,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34481186,,,4
+H4,2019,2019,2019,0,0,1,Import,308,Grenada,GRD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135237,,,0
+H4,2019,2019,2019,0,0,2,Export,308,Grenada,GRD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9075,,,0
+H4,2019,2019,2019,0,0,1,Import,308,Grenada,GRD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55967,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1364300937,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,646049194,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128808,,,0
+H4,2019,2019,2019,0,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3519829183,,,4
+H4,2019,2019,2019,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2266469717,,,4
+H4,2019,2019,2019,0,0,1,Import,478,Mauritania,MRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142706989,,,0
+H4,2019,2019,2019,0,0,2,Export,478,Mauritania,MRT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161709446,,,0
+H4,2019,2019,2019,0,0,1,Import,478,Mauritania,MRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48804355,,,0
+H4,2019,2019,2019,0,0,2,Export,478,Mauritania,MRT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3492215,,,0
+H4,2019,2019,2019,0,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,455235784381,,,0
+H4,2019,2019,2019,0,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,460603695808,,,4
+H4,2019,2019,2019,0,0,1,Import,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1290623662,,,0
+H4,2019,2019,2019,0,0,2,Export,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388521807,,,4
+H4,2019,2019,2019,0,0,1,Import,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180370834,,,0
+H4,2019,2019,2019,0,0,2,Export,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29416803,,,4
+H4,2019,2019,2019,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5842487249,,,4
+H4,2019,2019,2019,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2779164783,,,4
+H4,2019,2019,2019,0,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,692514063,,,4
+H4,2019,2019,2019,0,0,2,Export,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249858751,,,4
+H4,2019,2019,2019,0,0,1,Import,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568941106,,,4
+H4,2019,2019,2019,0,0,2,Export,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80160157,,,4
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1313806452,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78642939,,,4
+H4,2019,2019,2019,0,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47369076912,,,4
+H4,2019,2019,2019,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,53617812190,,,4
+H4,2019,2019,2019,0,0,1,Import,566,Nigeria,NGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,740245520,,,4
+H4,2019,2019,2019,0,0,2,Export,566,Nigeria,NGA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4056260,,,0
+H4,2019,2019,2019,0,0,1,Import,566,Nigeria,NGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151206766,,,4
+H4,2019,2019,2019,0,0,2,Export,566,Nigeria,NGA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249858,,,0
+H4,2019,2019,2019,0,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29178064574,,,4
+H4,2019,2019,2019,0,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72934956293,,,0
+H4,2019,2019,2019,0,0,1,Import,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189554001,,,0
+H4,2019,2019,2019,0,0,2,Export,634,Qatar,QAT,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10232393,,,0
+H4,2019,2019,2019,0,0,1,Import,634,Qatar,QAT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79997487,,,0
+H4,2019,2019,2019,0,0,2,Export,634,Qatar,QAT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5570124,,,0
+H4,2019,2019,2019,0,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623792718,,,4
+H4,2019,2019,2019,0,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97255260,,,4
+H4,2019,2019,2019,0,0,1,Import,662,Saint Lucia,LCA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74220,,,0
+H4,2019,2019,2019,0,0,2,Export,662,Saint Lucia,LCA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225413,,,0
+H4,2019,2019,2019,0,0,1,Import,662,Saint Lucia,LCA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300123,,,4
+H4,2019,2019,2019,0,0,2,Export,662,Saint Lucia,LCA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85,,,0
+H4,2019,2019,2019,0,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144334467853,,,4
+H4,2019,2019,2019,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251800016999,,,4
+H4,2019,2019,2019,0,0,1,Import,682,Saudi Arabia,SAU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1443161030,,,4
+H4,2019,2019,2019,0,0,2,Export,682,Saudi Arabia,SAU,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31183341,,,0
+H4,2019,2019,2019,0,0,1,Import,682,Saudi Arabia,SAU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,645841158,,,0
+H4,2019,2019,2019,0,0,2,Export,682,Saudi Arabia,SAU,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69610000,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3327281572,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,891973123,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1009127560,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44304513,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37629379,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,660899,,,4
+H4,2019,2019,2019,0,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6338601314,,,4
+H4,2019,2019,2019,0,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7191889249,,,4
+H4,2019,2019,2019,0,0,1,Import,780,Trinidad and Tobago,TTO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48398443,,,4
+H4,2019,2019,2019,0,0,2,Export,780,Trinidad and Tobago,TTO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67474,,,0
+H4,2019,2019,2019,0,0,1,Import,780,Trinidad and Tobago,TTO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637408,,,4
+H4,2019,2019,2019,0,0,2,Export,780,Trinidad and Tobago,TTO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3287349,,,0
+H4,2019,2019,2019,0,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,60799689210,,,4
+H4,2019,2019,2019,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50054402431,,,4
+H4,2019,2019,2019,0,0,1,Import,804,Ukraine,UKR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6985013523,,,4
+H4,2019,2019,2019,0,0,2,Export,804,Ukraine,UKR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3242815800,,,4
+H4,2019,2019,2019,0,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,78657517973,,,4
+H4,2019,2019,2019,0,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,30632552899,,,4
+H4,2019,2019,2019,0,0,1,Import,818,Egypt,EGY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3621178267,,,4
+H4,2019,2019,2019,0,0,2,Export,818,Egypt,EGY,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356616899,,,4
+H4,2019,2019,2019,0,0,1,Import,818,Egypt,EGY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2367707863,,,4
+H4,2019,2019,2019,0,0,2,Export,818,Egypt,EGY,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62709050,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,390681506,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49272482,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48028,,,0
+H3,2019,2019,2019,0,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568340063,,,4
+H3,2019,2019,2019,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37400118,,,4
+H3,2019,2019,2019,0,0,1,Import,28,Antigua and Barbuda,ATG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33,,,0
+H3,2019,2019,2019,0,0,1,Import,28,Antigua and Barbuda,ATG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61536,,,0
+H3,2019,2019,2019,0,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32562090,,,4
+H3,2019,2019,2019,0,0,2,Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5588372,,,4
+H3,2019,2019,2019,0,0,1,Import,500,Montserrat,MSR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5337,,,0
+H3,2019,2019,2019,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335230895,,,4
+H3,2019,2019,2019,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38157024,,,4
+H3,2019,2019,2019,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99732,,,4
+H3,2019,2019,2019,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301,,,0
+H3,2019,2019,2019,0,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147666945,,,4
+H3,2019,2019,2019,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9858888,,,0
+H3,2019,2019,2019,0,0,1,Import,678,Sao Tome and Principe,STP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76125,,,0
+H3,2019,2019,2019,0,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1711449972,,,4
+H3,2019,2019,2019,0,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2155132556,,,4
+H3,2019,2019,2019,0,0,1,Import,740,Suriname,SUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4024408,,,0
+H3,2019,2019,2019,0,0,2,Export,740,Suriname,SUR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35990,,,0
+H3,2019,2019,2019,0,0,1,Import,740,Suriname,SUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5052639,,,0
+H3,2019,2019,2019,0,0,2,Export,740,Suriname,SUR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35701,,,0
