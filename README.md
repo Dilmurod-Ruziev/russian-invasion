@@ -26,7 +26,7 @@
 
 [![Final analysis Screen Shot][product-screenshot]](image_2022-07-06_16-57-32.png)
 
-On March 2, 2022, UN members voted to condemn Russia’s invasion of Ukraine. This data analysis focuses on how they 
+On March 2, 2022, UN members voted to condemn Russia’s invasion of Ukraine. This data analysis focuses on how votes 
 distributed through economic and military alliances. The project is made for educational purposes and does not intend to harm
 any country or nation and is free to use. Enjoy!
 
