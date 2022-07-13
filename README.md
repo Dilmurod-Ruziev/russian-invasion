@@ -72,7 +72,7 @@ Dilmurod Ruziev - dilmurodr00@gmail.com
 Project Link: [https://github.com/Dilmurod-Ruziev/russian-invasion](https://github.com/Dilmurod-Ruziev/russian-invasion)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">↑</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: image_2022-07-06_16-57-32.png
