@@ -32,7 +32,7 @@ any country or nation and is free to use. Enjoy!
 
 ### Built With
 
-The main tools that I have used in this project are Python(with pandas), Power BI, Excel
+The main tools that I have used in this project are Python(pandas), Power BI, Excel
 
 * [![Python][Python]][Python-url]
 * <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI" style="width: 200px;"/>
