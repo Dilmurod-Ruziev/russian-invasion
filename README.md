@@ -26,9 +26,13 @@
 
 [![Final analysis Screen Shot][product-screenshot]](image_2022-07-06_16-57-32.png)
 
-On March 2, 2022, UN members voted to condemn Russia’s invasion of Ukraine. This data analysis focuses on how votes 
-distributed through economic and military alliances. The project is made for educational purposes and does not intend to harm
+On March 2, 2022, UN members voted to condemn Russia’s invasion of Ukraine. This data analysis focuses on how economic dependencies, geological location, and military alliances could influence the choices countries have made. Also, it could give an idea of how votes will be distributed if one country invades another. Some insights that have been found:
+ - No country that has a political alliance with the Russian Federation has voted against the condemnation while all countries of NATO(Sweden and Finland included) voted in favor 
+ - No country with an import dependency on Russia with more than 15% has voted against the condemnation
+ - Asian and African countries' votes are not unified while almost all other countries voted in favor of condemnation 
+The project is made for educational purposes and does not intend to harm
 any country or nation and is free to use. Enjoy!
+
 
 ### Built With
 
