@@ -30,6 +30,7 @@ On March 2, 2022, UN members voted to condemn Russia’s invasion of Ukraine. Th
  - No country that has a political alliance with the Russian Federation has voted against the condemnation while all countries of NATO(Sweden and Finland included) voted in favor 
  - No country with an import dependency on Russia with more than 15% has voted against the condemnation
  - Asian and African countries' votes are not unified while almost all other countries voted in favor of condemnation 
+
 The project is made for educational purposes and does not intend to harm
 any country or nation and is free to use. Enjoy!
 
